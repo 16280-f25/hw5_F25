@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 #           IMPORTANT DETAILS BELOW             #
 # ************************************************
 """
-This starter code provides code base to implement occupancy grid mapping for HW5b Q1
+This starter code provides code base to implement occupancy grid mapping for HW5 Q3
 Parts of this assignment depends on HW5a solutions
 
 --- TBD --- indicates the section to fill out   
@@ -179,7 +179,7 @@ class PauseAndCapture(Node):
         """
         Main function for Point2Plane ICP
 
-        Copy relevant parts from HW4
+        You can copy your implementation from HW4 into the relevant parts of the TBD
 
         """
         

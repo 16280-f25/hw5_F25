@@ -66,6 +66,7 @@ private:
 	RCLCPP_INFO(this->get_logger(),	"  Odometry orientation: [x=%.3f, y=%.3f, z=%.3f, w=%.3f]", ori_odom.x, ori_odom.y, ori_odom.z, ori_odom.w);
 
     //---------------------- TBD Comp Filter Stuff -------------------
+	  // Create a publisher for the fused data here and convert your HW4 code as well
     
     //----------------------------------------------------------------
   }
